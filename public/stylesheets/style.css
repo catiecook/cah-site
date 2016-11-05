@@ -37,3 +37,11 @@ img {
   width: 22%;
   padding-bottom: 5%;
 }
+
+.space-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 3%;
+  width: 80%;
+}
