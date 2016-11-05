@@ -7,8 +7,12 @@ p {
   color: white;
 }
 
-a:link {
+footer a:link {
   color: white;
+}
+
+a:link {
+  color: black;
 }
 
 h1 {
